@@ -1,0 +1,10 @@
+Rough outline of workshop:
+
+-Background on me, UVA Library, RDS offerings
+
+-Background on what ChatGPT is and what we will be using in this workshop
+	-Using the ChatGPT 3.5 free version
+
+-Add caveat on how NOT to use ChatGPT
+
+-Run through some scenarios
