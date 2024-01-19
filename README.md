@@ -9,7 +9,7 @@ This workshop is meant to show you various ways you can potentially use the powe
 
 ### Link to recording of this workshop
 - [View on PanOpto]()
-- [View on Youtube]()
+- [View on Youtube](https://www.youtube.com/watch?v=vE7qeXR7poY)
 
 Erich Purpur
 
